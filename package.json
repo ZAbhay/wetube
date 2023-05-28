@@ -1,0 +1,22 @@
+{
+  "name": "wetube",
+  "version": "1.0.0",
+  "description": "cloning Youtube with VanillaJS and NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZAbhay/wetube.git"
+  },
+  "author": "Abhay Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZAbhay/wetube/issues"
+  },
+  "homepage": "https://github.com/ZAbhay/wetube#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
